@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "wlb",
+    "wlb-cli"
+]
